@@ -102,4 +102,13 @@ def Hijacking_Victim_Defenses(Victim_Hijacking_Options):
   if full.connect_ex((victim_ip, attacker_ip)):
     print("Victim Machine/System is COMPROMISED, CONGRATULATIONS!");
   if():
-    print("Victim Computer/System is Secure, Too bad, Try again?");
+    print("Victim Machine/System is Secure, Too bad, Try again?");
+
+# implement exploit_methods 
+exploit_methods = input ('system_attack_options for exploiting');
+attacks_host_ip = input ('victim_ip: 87.147.217.140');
+def Target_Attack(zero_day_exploit_options):
+  if full.connect_ex((attacker_ip, victim_ip)):
+    print("Victim Machine/System is DESTROYED, CONGRATULATIONS!");
+  if():
+    print("Victim Server/System is COMPROMISED, YOU'VE DONE IT VERY WELL, WELL DONE!");
